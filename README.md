@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Cole Johnson, the Head of Software Development at Levitree.
-- 👀 Our goal is to strategically modify the topology of terrain to prevent flooding by injecting lignocellulosic underground.
-- 📫 Reach me at (415) 377-9425 or cole@levitree.com
+- 👋  Hi, I’m Cole Johnson, the Head of Software Development at Levitree.
+- 👀  Our goal is to strategically modify the topology of terrain to prevent flooding by injecting lignocellulosic underground.
+- 📫  Reach me at (415) 377-9425 or cole@levitree.com
